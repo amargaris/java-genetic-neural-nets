@@ -1,1 +1,1 @@
-# java-genetic-neural-nets
+# Java-Genetic-Neural-Nets
